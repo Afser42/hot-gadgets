@@ -1,6 +1,6 @@
 
 .container{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .all-para{
@@ -31,4 +31,33 @@
     color: white;
     border-radius: 8px;
     padding: 10px 20px;
+}
+
+.mar-btm{
+    margin-bottom: 25px;
+}
+.see-all{
+    color: rgb(255, 145, 0);
+    font-weight: 700;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px lightgray;
+}
+
+.card-img-top{
+    padding: 40px 20px;
+}
+
+
+.card-footer{
+    border: none;
+    background-color: white;
+    margin-bottom: 50px;
 }
